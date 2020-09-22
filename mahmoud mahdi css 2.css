@@ -1,0 +1,33 @@
+h1{ 
+    
+    text-align: center;
+    font-size: 75px;
+}
+h2{ 
+    color: red;
+    text-align:center;
+    font-size: 50px;
+}
+.one{
+    color:orange
+}
+.two{
+    color:purple
+}
+.three{
+    color: blue;
+
+}
+.four{
+    color: green;
+}
+.five{
+    color: red;
+}
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+footer{
+    text-align: right;
+}
