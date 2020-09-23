@@ -1,0 +1,68 @@
+footer{
+    text-align: center;
+}
+
+header{
+    background-image: url(lacasadepapel.jpg);
+    height: 700px;
+}
+
+.title{
+    color: red;
+    font-size: 80px;
+}
+
+.de{
+    color:white;
+}
+
+.money{
+    color:white;
+    font-size: 50px;
+}
+
+nav{
+ 
+    background-color: gray;
+    font-size: 50px;
+    text-align: center;
+}
+
+.menga{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.BSO{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+label{
+    margin-right: 30px;
+}
+
+.naem{
+    margin-left: 17px;
+}
+
+.color{
+    border-color: purple;
+}
+footer{
+    background-color: purple;
+}
+a:hover{
+    color: red;
+}
+.vl {
+    border-left: 3px solid black;
+    height: 300px;
+  }
+  .Other-Service{
+      margin-left: 15px;
+  }
+  .AM{
+      color: red;
+  }
